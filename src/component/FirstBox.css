@@ -1,0 +1,66 @@
+.Box1 {
+    background-color: burlywood;
+    width: 70vw;
+    height: 190vh;
+    margin: auto;
+    position: relative;
+    border-bottom-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+}
+
+.InnerBox {
+    width: 65vw;
+    border: 2px solid indigo;
+    border-radius: 15px;
+    position: absolute;
+    top: 20px;
+    left: 17%;
+    background-color: burlywood;
+    padding-bottom: 10px;
+}
+
+.Div1 {
+    width: 50vw;
+    height: 60vh;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYoYVkheMQ9bpbDPUjOMUWM-aPlKZRB6ar9NOaFR93Lfq1LK-fxFGQnjTvwAN7c6jEJc&usqp=CAU);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-color: burlywood;
+    border: 2px solid indigo;
+    border-radius: 15px;
+    margin: auto;
+    padding: 10px;
+}
+
+.Div2 {
+    width: 50vw;
+    height: 30vh;
+    background-color: burlywood;
+    border: 2px solid indigo;
+    border-radius: 15px;
+    margin: auto;
+    padding: 10px;
+    background-image: url(https://cdn.impakter.com/wp-content/uploads/2019/01/Jean1-e1547660877544.jpg), url(https://www.preciouscore.com/wp-content/uploads/2017/02/pot-of-eru.jpg);
+    background-repeat: no-repeat;
+    background-size: contain, cover;
+}
+
+.Div3 {
+    width: 50vw;
+    height: 60vh;
+    background-image: url(https://myafricangroceryonline.com/wp-content/uploads/2019/04/red-palm-oil.jpg);
+    background-color: burlywood;
+    border: 2px solid indigo;
+    border-radius: 15px;
+    margin: auto;
+    padding: 10px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: rgb(117, 31, 31);
+    text-align: center;
+}
