@@ -1,0 +1,8 @@
+Body {
+    background-color: indigo;
+    background: linear-gradient(60deg, rgba(205, 99, 28, 1) 26%, rgba(176, 41, 137, 0.865983893557423) 63%, rgb(162, 182, 187) 94%);
+}
+
+.App {
+    font-size: 1.5rem;
+}
